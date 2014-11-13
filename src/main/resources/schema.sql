@@ -1,0 +1,1 @@
+CREATE TABLE CUSTOMER( firstname varchar(50), lastname varchar(50), ecn varchar(50), account number, middleinitial varchar(50), dob date,phone varchar(50),city varchar(50),state varchar(50),zip number);
